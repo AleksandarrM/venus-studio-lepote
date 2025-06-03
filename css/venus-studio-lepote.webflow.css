@@ -835,7 +835,6 @@
   .navbar {
     grid-column-gap: 500px;
     grid-row-gap: 500px;
-    justify-content: space-around;
     align-items: center;
   }
 
